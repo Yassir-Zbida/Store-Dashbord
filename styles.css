@@ -31,15 +31,13 @@ body{
 
 .menu{
     background-color: #73bafc;
-    width: 50px;
+    width: 260px;
     height: 100vh;
     padding: 20px;
     overflow: hidden;
     transition: ,5s;
 }
-.menu:hover{
-    width: 260px;
-}
+
 ul{
   list-style: none; 
   position: relative;
